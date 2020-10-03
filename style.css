@@ -1,0 +1,92 @@
+body
+{
+    background-color: ;
+    box-sizing: border-box;
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    font-weight: 700;
+    font-size: 18px;
+    background-color: darkcyan;
+}
+.navbar a:link{
+    color: #fff;
+}
+.navbar-right li a:link{
+    color: #fff;
+}
+.container{
+    padding: 5px;
+    box-sizing: border-box;
+    display: block;
+}
+.row{
+    margin-top: 20px;
+}
+.row h1{
+    font-size: 45px;
+    font-family: serif;
+    font-weight: 700;
+    padding-top: 50px;
+}
+.row p{
+    font-size: 20px;
+}
+.row .col-md-6 img{
+    height: 450px;
+    width: 550px;
+}
+.row input{
+    height: 35px;
+    width: 250px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid black;
+    background-color: beige;
+}
+.row button{
+    width: 250px;
+    height: 35px;
+    background-color: darkcyan;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.col-md-4 i{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 20px;
+    padding-left: 80px
+}
+#emg img{
+    height: 350px;
+    width: 400px;
+}
+.btn{
+    float: right;
+    width: 100px;
+}
+footer{
+    
+    background-color: darkcyan;
+    border: 2px solid grey;
+    height: 60px;
+    padding: 10px;
+    margin: 10px
+}
+footer .text{
+    float: left;
+    padding: 10px;
+    color: #fff;
+}
+footer .icons{
+    float: right;
+    font-size: 30px;
+    padding: px;
+    padding-left: 20px;
+}
+footer i{
+    color: #fff;;
+}
