@@ -10,9 +10,10 @@ body
     font-weight: 700;
     font-size: 18px;
     background-color: darkcyan;
+    color: ;
 }
 .navbar a:link{
-    color: #fff;
+    color: ;
 }
 .navbar-right li a:link{
     color: #fff;
@@ -54,13 +55,16 @@ body
     color: #fff;
     margin-top: 20px;
 }
-
+.row .red button{
+    width: 150px;
+}
 .col-md-4 i{
     text-align: center;
     font-size: 100px;
     margin-top: 20px;
     padding-left: 80px
 }
+
 #emg img{
     height: 350px;
     width: 400px;
