@@ -44,14 +44,14 @@ body
     height: 35px;
     width: 250px;
     padding: 10px;
-    margin: 20px;
+    margin: 2px;
+    margin-bottom: 10px;
     border: 2px solid black;
     background-color: beige;
 }
 .row button{
     width: 250px;
     height: 35px;
-    padding: 10px;
     background-color: darkcyan;
     color: #fff;
     margin-top: 20px;
